@@ -1,0 +1,21 @@
+{
+  "status": "aprovado",
+  "validacoes": [
+    "cabecalhos e quantidade de colunas",
+    "volumes esperados",
+    "unicidade das chaves primarias",
+    "integridade das chaves estrangeiras",
+    "produtos ativos utilizados nos itens",
+    "consistencia de datas",
+    "formulas monetarias por pedido e por item",
+    "reconciliacao completa de quantidade, bruto, desconto e liquido entre pedidos e itens"
+  ],
+  "linhas_validadas": {
+    "dFornecedores": 500,
+    "dClientes": 50000,
+    "dProdutos": 10000,
+    "fPedidos": 250000,
+    "fItensPedidos": 750000
+  },
+  "valor_frete_total": "550153.55"
+}

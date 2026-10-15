@@ -1,0 +1,38 @@
+{
+  "tipo": "dados comerciais sinteticos",
+  "semente_aleatoria": 20260709,
+  "periodo_dados": {
+    "inicio": "2023-01-01",
+    "fim": "2026-06-30"
+  },
+  "arquivos": {
+    "dFornecedores": 500,
+    "dClientes": 50000,
+    "dProdutos": 10000,
+    "fPedidos": 250000,
+    "fItensPedidos": 750000
+  },
+  "itens_por_pedido": 3,
+  "resumo_geracao": {
+    "quantidade_total_unidades": 1515638,
+    "valor_bruto": "1011860791.04",
+    "valor_desconto": "33862277.57",
+    "valor_frete": "550153.55",
+    "valor_liquido": "978548667.02",
+    "status_pedidos": {
+      "Entregue": 222527,
+      "Pendente": 3677,
+      "Aprovado": 7516,
+      "Em Transporte": 15048,
+      "Cancelado": 1232
+    },
+    "status_itens": {
+      "Faturado": 651218,
+      "Pendente": 11031,
+      "Aguardando Faturamento": 22548,
+      "Devolvido": 16363,
+      "Em Transporte": 45144,
+      "Cancelado": 3696
+    }
+  }
+}

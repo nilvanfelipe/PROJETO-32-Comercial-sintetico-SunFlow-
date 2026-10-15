@@ -1,0 +1,63 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/powerbi-desktop-samples/main/Report%20Theme%20JSON%20Schema/reportThemeSchema-2.157.json",
+  "name": "Vendas Comercial | Light",
+  "dataColors": ["#2563EB", "#6B7280", "#111827", "#E5E7EB", "#E8EFFD", "#4F7DE8", "#8E96A5", "#B7C6EC"],
+  "background": "#E8EFFD",
+  "foreground": "#111827",
+  "tableAccent": "#2563EB",
+  "firstLevelElements": "#111827",
+  "secondLevelElements": "#6B7280",
+  "thirdLevelElements": "#8E96A5",
+  "fourthLevelElements": "#E5E7EB",
+  "secondaryBackground": "#EDEEF1",
+  "textClasses": {
+    "callout": { "fontFace": "Space Grotesk", "fontSize": 28, "color": "#111827" },
+    "title": { "fontFace": "Space Grotesk", "fontSize": 11, "color": "#111827" },
+    "header": { "fontFace": "IBM Plex Mono", "fontSize": 10, "color": "#111827" },
+    "label": { "fontFace": "IBM Plex Mono", "fontSize": 9, "color": "#6B7280" }
+  },
+  "visualStyles": {
+    "page": {
+      "*": {
+        "*": [{ "pageSizeTypes": "Custom", "pageSizeWidth": 1280, "pageSizeHeight": 720 }],
+        "background": [{ "color": { "solid": { "color": "#E8EFFD" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#F7F8FA" } }, "transparency": 0 }]
+      }
+    },
+    "*": {
+      "*": {
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#111827" } }, "fontFamily": "Space Grotesk", "fontSize": 11, "bold": true, "alignment": "left", "titleWrap": true }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#EDEEF1" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E5E7EB" } }, "radius": 10, "width": 1 }],
+        "dropShadow": [{ "show": true, "color": { "solid": { "color": "#111827" } }, "transparency": 94, "preset": "Bottom", "position": "Outer", "shadowBlur": 8, "shadowDistance": 2, "shadowSpread": 0 }],
+        "visualHeader": [{ "show": false, "foreground": { "solid": { "color": "#6B7280" } }, "background": { "solid": { "color": "#EDEEF1" } }, "transparency": 0 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [{ "show": true, "fontColor": { "solid": { "color": "#6B7280" } }, "fontFamily": "IBM Plex Mono", "textSize": 9, "bold": false }],
+        "items": [{ "fontColor": { "solid": { "color": "#111827" } }, "background": { "solid": { "color": "#EDEEF1" } }, "fontFamily": "IBM Plex Mono", "textSize": 9, "padding": 8 }]
+      }
+    },
+    "cardVisual": {
+      "*": {
+        "value": [{ "$id": "default", "show": true, "fontColor": { "solid": { "color": "#111827" } }, "fontFamily": "Space Grotesk", "fontSize": 28, "bold": true, "horizontalAlignment": "left" }],
+        "label": [{ "$id": "default", "show": true, "fontColor": { "solid": { "color": "#6B7280" } }, "fontFamily": "IBM Plex Mono", "fontSize": 9, "bold": true, "horizontalAlignment": "left" }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#111827" } }, "fontFamily": "Space Grotesk", "fontSize": 28, "bold": true }],
+        "categoryLabels": [{ "show": true, "color": { "solid": { "color": "#6B7280" } }, "fontFamily": "IBM Plex Mono", "fontSize": 9, "bold": true }]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "columnHeaders": [{ "backColor": { "solid": { "color": "#E5E7EB" } }, "fontColor": { "solid": { "color": "#111827" } }, "fontFamily": "IBM Plex Mono", "fontSize": 10, "bold": true, "outlineColor": { "solid": { "color": "#2563EB" } }, "outlineWeight": 1 }],
+        "rowHeaders": [{ "backColor": { "solid": { "color": "#EDEEF1" } }, "fontColor": { "solid": { "color": "#111827" } }, "fontFamily": "IBM Plex Mono", "fontSize": 9, "outlineColor": { "solid": { "color": "#E5E7EB" } }, "outlineWeight": 1 }],
+        "values": [{ "backColorPrimary": { "solid": { "color": "#EDEEF1" } }, "backColorSecondary": { "solid": { "color": "#FFFFFF" } }, "fontColorPrimary": { "solid": { "color": "#111827" } }, "fontColorSecondary": { "solid": { "color": "#111827" } }, "fontFamily": "IBM Plex Mono", "fontSize": 9, "outlineColor": { "solid": { "color": "#E5E7EB" } }, "outlineWeight": 1 }],
+        "grid": [{ "gridHorizontal": true, "gridHorizontalColor": { "solid": { "color": "#E5E7EB" } }, "gridHorizontalWeight": 1, "gridVertical": false, "rowPadding": 6 }]
+      }
+    }
+  }
+}

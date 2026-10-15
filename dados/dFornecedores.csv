@@ -1,0 +1,501 @@
+IdFornecedor,NomeFornecedor,CidadeFornecedor,UFFornecedor,PrazoMedioEntregaDias,StatusFornecedor
+1,Fornecedor 0001 LTDA,Salvador,BA,15,Ativo
+2,Fornecedor 0002 LTDA,Belem,PA,10,Ativo
+3,Fornecedor 0003 LTDA,Rio de Janeiro,RJ,7,Ativo
+4,Fornecedor 0004 LTDA,Belem,PA,5,Ativo
+5,Fornecedor 0005 LTDA,Salvador,BA,10,Ativo
+6,Fornecedor 0006 LTDA,Cuiaba,MT,15,Ativo
+7,Fornecedor 0007 LTDA,Goiania,GO,21,Ativo
+8,Fornecedor 0008 LTDA,Londrina,PR,19,Ativo
+9,Fornecedor 0009 LTDA,Curitiba,PR,18,Ativo
+10,Fornecedor 0010 LTDA,Sao Paulo,SP,20,Ativo
+11,Fornecedor 0011 LTDA,Manaus,AM,7,Ativo
+12,Fornecedor 0012 LTDA,Cuiaba,MT,12,Ativo
+13,Fornecedor 0013 LTDA,Niteroi,RJ,9,Ativo
+14,Fornecedor 0014 LTDA,Sao Paulo,SP,6,Ativo
+15,Fornecedor 0015 LTDA,Brasilia,DF,11,Ativo
+16,Fornecedor 0016 LTDA,Niteroi,RJ,13,Ativo
+17,Fornecedor 0017 LTDA,Curitiba,PR,12,Ativo
+18,Fornecedor 0018 LTDA,Niteroi,RJ,11,Ativo
+19,Fornecedor 0019 LTDA,Cuiaba,MT,21,Ativo
+20,Fornecedor 0020 LTDA,Recife,PE,5,Ativo
+21,Fornecedor 0021 LTDA,Campinas,SP,11,Ativo
+22,Fornecedor 0022 LTDA,Fortaleza,CE,6,Ativo
+23,Fornecedor 0023 LTDA,Belo Horizonte,MG,19,Ativo
+24,Fornecedor 0024 LTDA,Londrina,PR,12,Ativo
+25,Fornecedor 0025 LTDA,Florianopolis,SC,17,Ativo
+26,Fornecedor 0026 LTDA,Campinas,SP,3,Ativo
+27,Fornecedor 0027 LTDA,Belem,PA,20,Ativo
+28,Fornecedor 0028 LTDA,Caxias do Sul,RS,4,Ativo
+29,Fornecedor 0029 LTDA,Porto Alegre,RS,21,Ativo
+30,Fornecedor 0030 LTDA,Curitiba,PR,21,Ativo
+31,Fornecedor 0031 LTDA,Niteroi,RJ,12,Ativo
+32,Fornecedor 0032 LTDA,Sao Paulo,SP,9,Ativo
+33,Fornecedor 0033 LTDA,Sao Paulo,SP,6,Ativo
+34,Fornecedor 0034 LTDA,Campo Grande,MS,17,Ativo
+35,Fornecedor 0035 LTDA,Manaus,AM,2,Ativo
+36,Fornecedor 0036 LTDA,Porto Alegre,RS,12,Ativo
+37,Fornecedor 0037 LTDA,Londrina,PR,19,Ativo
+38,Fornecedor 0038 LTDA,Goiania,GO,15,Ativo
+39,Fornecedor 0039 LTDA,Sao Paulo,SP,19,Ativo
+40,Fornecedor 0040 LTDA,Rio de Janeiro,RJ,8,Ativo
+41,Fornecedor 0041 LTDA,Santos,SP,17,Ativo
+42,Fornecedor 0042 LTDA,Rio de Janeiro,RJ,20,Ativo
+43,Fornecedor 0043 LTDA,Goiania,GO,17,Ativo
+44,Fornecedor 0044 LTDA,Belo Horizonte,MG,14,Ativo
+45,Fornecedor 0045 LTDA,Belem,PA,16,Ativo
+46,Fornecedor 0046 LTDA,Belo Horizonte,MG,3,Ativo
+47,Fornecedor 0047 LTDA,Porto Alegre,RS,21,Ativo
+48,Fornecedor 0048 LTDA,Cuiaba,MT,19,Ativo
+49,Fornecedor 0049 LTDA,Londrina,PR,19,Inativo
+50,Fornecedor 0050 LTDA,Curitiba,PR,8,Ativo
+51,Fornecedor 0051 LTDA,Rio de Janeiro,RJ,16,Ativo
+52,Fornecedor 0052 LTDA,Caxias do Sul,RS,6,Ativo
+53,Fornecedor 0053 LTDA,Salvador,BA,8,Ativo
+54,Fornecedor 0054 LTDA,Goiania,GO,14,Ativo
+55,Fornecedor 0055 LTDA,Manaus,AM,2,Ativo
+56,Fornecedor 0056 LTDA,Belo Horizonte,MG,7,Ativo
+57,Fornecedor 0057 LTDA,Uberlandia,MG,18,Ativo
+58,Fornecedor 0058 LTDA,Belo Horizonte,MG,5,Inativo
+59,Fornecedor 0059 LTDA,Uberlandia,MG,8,Ativo
+60,Fornecedor 0060 LTDA,Campinas,SP,11,Ativo
+61,Fornecedor 0061 LTDA,Cuiaba,MT,10,Ativo
+62,Fornecedor 0062 LTDA,Uberlandia,MG,12,Ativo
+63,Fornecedor 0063 LTDA,Londrina,PR,13,Ativo
+64,Fornecedor 0064 LTDA,Niteroi,RJ,4,Ativo
+65,Fornecedor 0065 LTDA,Joinville,SC,2,Ativo
+66,Fornecedor 0066 LTDA,Florianopolis,SC,6,Ativo
+67,Fornecedor 0067 LTDA,Uberlandia,MG,19,Ativo
+68,Fornecedor 0068 LTDA,Salvador,BA,19,Ativo
+69,Fornecedor 0069 LTDA,Brasilia,DF,3,Ativo
+70,Fornecedor 0070 LTDA,Caxias do Sul,RS,21,Ativo
+71,Fornecedor 0071 LTDA,Recife,PE,8,Ativo
+72,Fornecedor 0072 LTDA,Niteroi,RJ,18,Ativo
+73,Fornecedor 0073 LTDA,Uberlandia,MG,20,Ativo
+74,Fornecedor 0074 LTDA,Curitiba,PR,6,Ativo
+75,Fornecedor 0075 LTDA,Cuiaba,MT,12,Inativo
+76,Fornecedor 0076 LTDA,Joinville,SC,5,Ativo
+77,Fornecedor 0077 LTDA,Fortaleza,CE,14,Ativo
+78,Fornecedor 0078 LTDA,Florianopolis,SC,17,Ativo
+79,Fornecedor 0079 LTDA,Londrina,PR,14,Ativo
+80,Fornecedor 0080 LTDA,Uberlandia,MG,21,Ativo
+81,Fornecedor 0081 LTDA,Curitiba,PR,18,Ativo
+82,Fornecedor 0082 LTDA,Sao Paulo,SP,5,Ativo
+83,Fornecedor 0083 LTDA,Fortaleza,CE,10,Ativo
+84,Fornecedor 0084 LTDA,Santos,SP,16,Ativo
+85,Fornecedor 0085 LTDA,Campo Grande,MS,2,Ativo
+86,Fornecedor 0086 LTDA,Campinas,SP,19,Ativo
+87,Fornecedor 0087 LTDA,Fortaleza,CE,21,Ativo
+88,Fornecedor 0088 LTDA,Belem,PA,8,Ativo
+89,Fornecedor 0089 LTDA,Londrina,PR,11,Ativo
+90,Fornecedor 0090 LTDA,Manaus,AM,14,Ativo
+91,Fornecedor 0091 LTDA,Rio de Janeiro,RJ,11,Ativo
+92,Fornecedor 0092 LTDA,Caxias do Sul,RS,2,Ativo
+93,Fornecedor 0093 LTDA,Campo Grande,MS,20,Ativo
+94,Fornecedor 0094 LTDA,Goiania,GO,20,Ativo
+95,Fornecedor 0095 LTDA,Belem,PA,3,Ativo
+96,Fornecedor 0096 LTDA,Rio de Janeiro,RJ,10,Ativo
+97,Fornecedor 0097 LTDA,Londrina,PR,2,Ativo
+98,Fornecedor 0098 LTDA,Brasilia,DF,11,Ativo
+99,Fornecedor 0099 LTDA,Recife,PE,5,Ativo
+100,Fornecedor 0100 LTDA,Curitiba,PR,21,Ativo
+101,Fornecedor 0101 LTDA,Campo Grande,MS,20,Ativo
+102,Fornecedor 0102 LTDA,Belo Horizonte,MG,10,Ativo
+103,Fornecedor 0103 LTDA,Rio de Janeiro,RJ,20,Ativo
+104,Fornecedor 0104 LTDA,Salvador,BA,9,Ativo
+105,Fornecedor 0105 LTDA,Campo Grande,MS,14,Ativo
+106,Fornecedor 0106 LTDA,Porto Alegre,RS,16,Ativo
+107,Fornecedor 0107 LTDA,Belem,PA,16,Ativo
+108,Fornecedor 0108 LTDA,Brasilia,DF,19,Ativo
+109,Fornecedor 0109 LTDA,Niteroi,RJ,12,Ativo
+110,Fornecedor 0110 LTDA,Goiania,GO,19,Ativo
+111,Fornecedor 0111 LTDA,Manaus,AM,6,Ativo
+112,Fornecedor 0112 LTDA,Goiania,GO,19,Ativo
+113,Fornecedor 0113 LTDA,Rio de Janeiro,RJ,12,Ativo
+114,Fornecedor 0114 LTDA,Londrina,PR,12,Ativo
+115,Fornecedor 0115 LTDA,Porto Alegre,RS,3,Ativo
+116,Fornecedor 0116 LTDA,Londrina,PR,21,Ativo
+117,Fornecedor 0117 LTDA,Cuiaba,MT,17,Ativo
+118,Fornecedor 0118 LTDA,Santos,SP,9,Ativo
+119,Fornecedor 0119 LTDA,Curitiba,PR,10,Ativo
+120,Fornecedor 0120 LTDA,Porto Alegre,RS,7,Ativo
+121,Fornecedor 0121 LTDA,Santos,SP,13,Ativo
+122,Fornecedor 0122 LTDA,Fortaleza,CE,16,Ativo
+123,Fornecedor 0123 LTDA,Salvador,BA,4,Inativo
+124,Fornecedor 0124 LTDA,Salvador,BA,13,Ativo
+125,Fornecedor 0125 LTDA,Belo Horizonte,MG,14,Ativo
+126,Fornecedor 0126 LTDA,Brasilia,DF,11,Ativo
+127,Fornecedor 0127 LTDA,Porto Alegre,RS,17,Ativo
+128,Fornecedor 0128 LTDA,Goiania,GO,10,Ativo
+129,Fornecedor 0129 LTDA,Recife,PE,6,Ativo
+130,Fornecedor 0130 LTDA,Londrina,PR,18,Ativo
+131,Fornecedor 0131 LTDA,Campinas,SP,17,Ativo
+132,Fornecedor 0132 LTDA,Londrina,PR,21,Ativo
+133,Fornecedor 0133 LTDA,Joinville,SC,5,Ativo
+134,Fornecedor 0134 LTDA,Belo Horizonte,MG,13,Ativo
+135,Fornecedor 0135 LTDA,Brasilia,DF,7,Ativo
+136,Fornecedor 0136 LTDA,Campo Grande,MS,2,Ativo
+137,Fornecedor 0137 LTDA,Niteroi,RJ,9,Ativo
+138,Fornecedor 0138 LTDA,Goiania,GO,13,Ativo
+139,Fornecedor 0139 LTDA,Rio de Janeiro,RJ,16,Ativo
+140,Fornecedor 0140 LTDA,Salvador,BA,17,Ativo
+141,Fornecedor 0141 LTDA,Caxias do Sul,RS,3,Ativo
+142,Fornecedor 0142 LTDA,Campo Grande,MS,17,Ativo
+143,Fornecedor 0143 LTDA,Campo Grande,MS,2,Ativo
+144,Fornecedor 0144 LTDA,Rio de Janeiro,RJ,13,Ativo
+145,Fornecedor 0145 LTDA,Cuiaba,MT,10,Ativo
+146,Fornecedor 0146 LTDA,Recife,PE,4,Bloqueado
+147,Fornecedor 0147 LTDA,Brasilia,DF,7,Ativo
+148,Fornecedor 0148 LTDA,Sao Paulo,SP,8,Ativo
+149,Fornecedor 0149 LTDA,Porto Alegre,RS,12,Ativo
+150,Fornecedor 0150 LTDA,Joinville,SC,11,Ativo
+151,Fornecedor 0151 LTDA,Cuiaba,MT,9,Ativo
+152,Fornecedor 0152 LTDA,Campo Grande,MS,20,Ativo
+153,Fornecedor 0153 LTDA,Sao Paulo,SP,9,Ativo
+154,Fornecedor 0154 LTDA,Uberlandia,MG,6,Ativo
+155,Fornecedor 0155 LTDA,Salvador,BA,20,Ativo
+156,Fornecedor 0156 LTDA,Goiania,GO,13,Ativo
+157,Fornecedor 0157 LTDA,Belem,PA,13,Ativo
+158,Fornecedor 0158 LTDA,Campo Grande,MS,19,Ativo
+159,Fornecedor 0159 LTDA,Florianopolis,SC,16,Ativo
+160,Fornecedor 0160 LTDA,Joinville,SC,16,Ativo
+161,Fornecedor 0161 LTDA,Porto Alegre,RS,12,Ativo
+162,Fornecedor 0162 LTDA,Brasilia,DF,2,Ativo
+163,Fornecedor 0163 LTDA,Uberlandia,MG,13,Ativo
+164,Fornecedor 0164 LTDA,Fortaleza,CE,20,Ativo
+165,Fornecedor 0165 LTDA,Belem,PA,9,Ativo
+166,Fornecedor 0166 LTDA,Goiania,GO,7,Ativo
+167,Fornecedor 0167 LTDA,Belem,PA,15,Ativo
+168,Fornecedor 0168 LTDA,Campinas,SP,2,Ativo
+169,Fornecedor 0169 LTDA,Porto Alegre,RS,13,Ativo
+170,Fornecedor 0170 LTDA,Niteroi,RJ,21,Ativo
+171,Fornecedor 0171 LTDA,Salvador,BA,17,Ativo
+172,Fornecedor 0172 LTDA,Fortaleza,CE,10,Ativo
+173,Fornecedor 0173 LTDA,Belem,PA,2,Ativo
+174,Fornecedor 0174 LTDA,Recife,PE,17,Ativo
+175,Fornecedor 0175 LTDA,Santos,SP,16,Ativo
+176,Fornecedor 0176 LTDA,Florianopolis,SC,12,Ativo
+177,Fornecedor 0177 LTDA,Londrina,PR,9,Ativo
+178,Fornecedor 0178 LTDA,Recife,PE,21,Ativo
+179,Fornecedor 0179 LTDA,Londrina,PR,5,Ativo
+180,Fornecedor 0180 LTDA,Goiania,GO,5,Ativo
+181,Fornecedor 0181 LTDA,Cuiaba,MT,20,Ativo
+182,Fornecedor 0182 LTDA,Brasilia,DF,7,Ativo
+183,Fornecedor 0183 LTDA,Niteroi,RJ,16,Ativo
+184,Fornecedor 0184 LTDA,Campinas,SP,14,Ativo
+185,Fornecedor 0185 LTDA,Rio de Janeiro,RJ,10,Ativo
+186,Fornecedor 0186 LTDA,Manaus,AM,17,Ativo
+187,Fornecedor 0187 LTDA,Manaus,AM,9,Inativo
+188,Fornecedor 0188 LTDA,Niteroi,RJ,11,Ativo
+189,Fornecedor 0189 LTDA,Santos,SP,16,Ativo
+190,Fornecedor 0190 LTDA,Fortaleza,CE,6,Ativo
+191,Fornecedor 0191 LTDA,Joinville,SC,13,Ativo
+192,Fornecedor 0192 LTDA,Salvador,BA,16,Ativo
+193,Fornecedor 0193 LTDA,Manaus,AM,19,Ativo
+194,Fornecedor 0194 LTDA,Santos,SP,10,Ativo
+195,Fornecedor 0195 LTDA,Campo Grande,MS,3,Ativo
+196,Fornecedor 0196 LTDA,Florianopolis,SC,18,Ativo
+197,Fornecedor 0197 LTDA,Niteroi,RJ,9,Ativo
+198,Fornecedor 0198 LTDA,Goiania,GO,18,Ativo
+199,Fornecedor 0199 LTDA,Belo Horizonte,MG,17,Ativo
+200,Fornecedor 0200 LTDA,Londrina,PR,21,Ativo
+201,Fornecedor 0201 LTDA,Belem,PA,11,Ativo
+202,Fornecedor 0202 LTDA,Campinas,SP,2,Ativo
+203,Fornecedor 0203 LTDA,Recife,PE,9,Ativo
+204,Fornecedor 0204 LTDA,Cuiaba,MT,7,Ativo
+205,Fornecedor 0205 LTDA,Campo Grande,MS,11,Ativo
+206,Fornecedor 0206 LTDA,Belo Horizonte,MG,2,Ativo
+207,Fornecedor 0207 LTDA,Santos,SP,8,Ativo
+208,Fornecedor 0208 LTDA,Joinville,SC,15,Ativo
+209,Fornecedor 0209 LTDA,Porto Alegre,RS,9,Ativo
+210,Fornecedor 0210 LTDA,Porto Alegre,RS,18,Ativo
+211,Fornecedor 0211 LTDA,Curitiba,PR,13,Ativo
+212,Fornecedor 0212 LTDA,Niteroi,RJ,19,Ativo
+213,Fornecedor 0213 LTDA,Santos,SP,9,Ativo
+214,Fornecedor 0214 LTDA,Brasilia,DF,19,Ativo
+215,Fornecedor 0215 LTDA,Belem,PA,5,Ativo
+216,Fornecedor 0216 LTDA,Salvador,BA,19,Ativo
+217,Fornecedor 0217 LTDA,Brasilia,DF,21,Ativo
+218,Fornecedor 0218 LTDA,Recife,PE,18,Ativo
+219,Fornecedor 0219 LTDA,Caxias do Sul,RS,8,Ativo
+220,Fornecedor 0220 LTDA,Belo Horizonte,MG,11,Ativo
+221,Fornecedor 0221 LTDA,Cuiaba,MT,18,Ativo
+222,Fornecedor 0222 LTDA,Goiania,GO,13,Ativo
+223,Fornecedor 0223 LTDA,Porto Alegre,RS,2,Ativo
+224,Fornecedor 0224 LTDA,Uberlandia,MG,15,Ativo
+225,Fornecedor 0225 LTDA,Caxias do Sul,RS,6,Ativo
+226,Fornecedor 0226 LTDA,Caxias do Sul,RS,9,Ativo
+227,Fornecedor 0227 LTDA,Florianopolis,SC,18,Ativo
+228,Fornecedor 0228 LTDA,Sao Paulo,SP,21,Ativo
+229,Fornecedor 0229 LTDA,Recife,PE,2,Ativo
+230,Fornecedor 0230 LTDA,Florianopolis,SC,10,Ativo
+231,Fornecedor 0231 LTDA,Joinville,SC,16,Ativo
+232,Fornecedor 0232 LTDA,Santos,SP,5,Ativo
+233,Fornecedor 0233 LTDA,Niteroi,RJ,20,Ativo
+234,Fornecedor 0234 LTDA,Brasilia,DF,5,Ativo
+235,Fornecedor 0235 LTDA,Manaus,AM,16,Ativo
+236,Fornecedor 0236 LTDA,Campo Grande,MS,18,Inativo
+237,Fornecedor 0237 LTDA,Belo Horizonte,MG,8,Ativo
+238,Fornecedor 0238 LTDA,Londrina,PR,8,Ativo
+239,Fornecedor 0239 LTDA,Joinville,SC,3,Ativo
+240,Fornecedor 0240 LTDA,Rio de Janeiro,RJ,2,Ativo
+241,Fornecedor 0241 LTDA,Brasilia,DF,13,Ativo
+242,Fornecedor 0242 LTDA,Curitiba,PR,9,Ativo
+243,Fornecedor 0243 LTDA,Salvador,BA,8,Ativo
+244,Fornecedor 0244 LTDA,Cuiaba,MT,4,Ativo
+245,Fornecedor 0245 LTDA,Belo Horizonte,MG,15,Ativo
+246,Fornecedor 0246 LTDA,Salvador,BA,13,Ativo
+247,Fornecedor 0247 LTDA,Londrina,PR,5,Ativo
+248,Fornecedor 0248 LTDA,Santos,SP,9,Ativo
+249,Fornecedor 0249 LTDA,Porto Alegre,RS,5,Ativo
+250,Fornecedor 0250 LTDA,Salvador,BA,7,Ativo
+251,Fornecedor 0251 LTDA,Santos,SP,6,Ativo
+252,Fornecedor 0252 LTDA,Uberlandia,MG,9,Ativo
+253,Fornecedor 0253 LTDA,Brasilia,DF,18,Ativo
+254,Fornecedor 0254 LTDA,Cuiaba,MT,8,Ativo
+255,Fornecedor 0255 LTDA,Goiania,GO,18,Ativo
+256,Fornecedor 0256 LTDA,Rio de Janeiro,RJ,7,Ativo
+257,Fornecedor 0257 LTDA,Londrina,PR,16,Ativo
+258,Fornecedor 0258 LTDA,Campinas,SP,9,Ativo
+259,Fornecedor 0259 LTDA,Belo Horizonte,MG,7,Ativo
+260,Fornecedor 0260 LTDA,Niteroi,RJ,12,Ativo
+261,Fornecedor 0261 LTDA,Goiania,GO,14,Ativo
+262,Fornecedor 0262 LTDA,Uberlandia,MG,6,Ativo
+263,Fornecedor 0263 LTDA,Fortaleza,CE,7,Ativo
+264,Fornecedor 0264 LTDA,Uberlandia,MG,8,Ativo
+265,Fornecedor 0265 LTDA,Belo Horizonte,MG,19,Ativo
+266,Fornecedor 0266 LTDA,Belo Horizonte,MG,10,Ativo
+267,Fornecedor 0267 LTDA,Belem,PA,3,Ativo
+268,Fornecedor 0268 LTDA,Campo Grande,MS,14,Ativo
+269,Fornecedor 0269 LTDA,Caxias do Sul,RS,6,Ativo
+270,Fornecedor 0270 LTDA,Belo Horizonte,MG,16,Ativo
+271,Fornecedor 0271 LTDA,Cuiaba,MT,6,Ativo
+272,Fornecedor 0272 LTDA,Porto Alegre,RS,9,Ativo
+273,Fornecedor 0273 LTDA,Rio de Janeiro,RJ,16,Ativo
+274,Fornecedor 0274 LTDA,Brasilia,DF,16,Ativo
+275,Fornecedor 0275 LTDA,Campo Grande,MS,14,Ativo
+276,Fornecedor 0276 LTDA,Niteroi,RJ,10,Ativo
+277,Fornecedor 0277 LTDA,Campinas,SP,15,Ativo
+278,Fornecedor 0278 LTDA,Caxias do Sul,RS,14,Ativo
+279,Fornecedor 0279 LTDA,Campo Grande,MS,8,Ativo
+280,Fornecedor 0280 LTDA,Campinas,SP,11,Ativo
+281,Fornecedor 0281 LTDA,Campinas,SP,7,Ativo
+282,Fornecedor 0282 LTDA,Uberlandia,MG,14,Ativo
+283,Fornecedor 0283 LTDA,Belo Horizonte,MG,17,Ativo
+284,Fornecedor 0284 LTDA,Rio de Janeiro,RJ,2,Ativo
+285,Fornecedor 0285 LTDA,Recife,PE,18,Ativo
+286,Fornecedor 0286 LTDA,Salvador,BA,12,Ativo
+287,Fornecedor 0287 LTDA,Porto Alegre,RS,8,Ativo
+288,Fornecedor 0288 LTDA,Recife,PE,16,Ativo
+289,Fornecedor 0289 LTDA,Curitiba,PR,13,Ativo
+290,Fornecedor 0290 LTDA,Niteroi,RJ,6,Ativo
+291,Fornecedor 0291 LTDA,Sao Paulo,SP,17,Ativo
+292,Fornecedor 0292 LTDA,Campinas,SP,14,Ativo
+293,Fornecedor 0293 LTDA,Manaus,AM,18,Ativo
+294,Fornecedor 0294 LTDA,Londrina,PR,7,Ativo
+295,Fornecedor 0295 LTDA,Brasilia,DF,12,Ativo
+296,Fornecedor 0296 LTDA,Campinas,SP,12,Ativo
+297,Fornecedor 0297 LTDA,Belem,PA,16,Ativo
+298,Fornecedor 0298 LTDA,Salvador,BA,12,Ativo
+299,Fornecedor 0299 LTDA,Niteroi,RJ,13,Ativo
+300,Fornecedor 0300 LTDA,Cuiaba,MT,3,Ativo
+301,Fornecedor 0301 LTDA,Curitiba,PR,14,Ativo
+302,Fornecedor 0302 LTDA,Sao Paulo,SP,2,Ativo
+303,Fornecedor 0303 LTDA,Manaus,AM,12,Ativo
+304,Fornecedor 0304 LTDA,Campo Grande,MS,14,Ativo
+305,Fornecedor 0305 LTDA,Campinas,SP,21,Ativo
+306,Fornecedor 0306 LTDA,Manaus,AM,20,Ativo
+307,Fornecedor 0307 LTDA,Curitiba,PR,8,Ativo
+308,Fornecedor 0308 LTDA,Uberlandia,MG,7,Ativo
+309,Fornecedor 0309 LTDA,Recife,PE,10,Bloqueado
+310,Fornecedor 0310 LTDA,Caxias do Sul,RS,6,Ativo
+311,Fornecedor 0311 LTDA,Sao Paulo,SP,2,Ativo
+312,Fornecedor 0312 LTDA,Manaus,AM,6,Ativo
+313,Fornecedor 0313 LTDA,Brasilia,DF,18,Ativo
+314,Fornecedor 0314 LTDA,Manaus,AM,20,Ativo
+315,Fornecedor 0315 LTDA,Londrina,PR,11,Ativo
+316,Fornecedor 0316 LTDA,Santos,SP,18,Ativo
+317,Fornecedor 0317 LTDA,Belo Horizonte,MG,9,Ativo
+318,Fornecedor 0318 LTDA,Campo Grande,MS,15,Ativo
+319,Fornecedor 0319 LTDA,Brasilia,DF,6,Ativo
+320,Fornecedor 0320 LTDA,Fortaleza,CE,7,Ativo
+321,Fornecedor 0321 LTDA,Uberlandia,MG,21,Ativo
+322,Fornecedor 0322 LTDA,Curitiba,PR,13,Ativo
+323,Fornecedor 0323 LTDA,Curitiba,PR,9,Ativo
+324,Fornecedor 0324 LTDA,Niteroi,RJ,17,Ativo
+325,Fornecedor 0325 LTDA,Belo Horizonte,MG,6,Ativo
+326,Fornecedor 0326 LTDA,Joinville,SC,6,Ativo
+327,Fornecedor 0327 LTDA,Belo Horizonte,MG,8,Ativo
+328,Fornecedor 0328 LTDA,Joinville,SC,16,Ativo
+329,Fornecedor 0329 LTDA,Goiania,GO,15,Ativo
+330,Fornecedor 0330 LTDA,Uberlandia,MG,14,Ativo
+331,Fornecedor 0331 LTDA,Florianopolis,SC,5,Ativo
+332,Fornecedor 0332 LTDA,Cuiaba,MT,4,Ativo
+333,Fornecedor 0333 LTDA,Santos,SP,2,Ativo
+334,Fornecedor 0334 LTDA,Manaus,AM,16,Inativo
+335,Fornecedor 0335 LTDA,Recife,PE,15,Ativo
+336,Fornecedor 0336 LTDA,Uberlandia,MG,10,Ativo
+337,Fornecedor 0337 LTDA,Fortaleza,CE,5,Ativo
+338,Fornecedor 0338 LTDA,Campinas,SP,5,Ativo
+339,Fornecedor 0339 LTDA,Cuiaba,MT,20,Ativo
+340,Fornecedor 0340 LTDA,Joinville,SC,9,Ativo
+341,Fornecedor 0341 LTDA,Fortaleza,CE,5,Ativo
+342,Fornecedor 0342 LTDA,Joinville,SC,14,Ativo
+343,Fornecedor 0343 LTDA,Campo Grande,MS,4,Ativo
+344,Fornecedor 0344 LTDA,Caxias do Sul,RS,18,Ativo
+345,Fornecedor 0345 LTDA,Curitiba,PR,3,Ativo
+346,Fornecedor 0346 LTDA,Rio de Janeiro,RJ,17,Ativo
+347,Fornecedor 0347 LTDA,Niteroi,RJ,14,Ativo
+348,Fornecedor 0348 LTDA,Londrina,PR,15,Ativo
+349,Fornecedor 0349 LTDA,Belo Horizonte,MG,20,Ativo
+350,Fornecedor 0350 LTDA,Campo Grande,MS,20,Ativo
+351,Fornecedor 0351 LTDA,Belem,PA,16,Ativo
+352,Fornecedor 0352 LTDA,Curitiba,PR,12,Ativo
+353,Fornecedor 0353 LTDA,Belem,PA,18,Ativo
+354,Fornecedor 0354 LTDA,Belo Horizonte,MG,20,Ativo
+355,Fornecedor 0355 LTDA,Belem,PA,11,Ativo
+356,Fornecedor 0356 LTDA,Goiania,GO,6,Ativo
+357,Fornecedor 0357 LTDA,Florianopolis,SC,20,Ativo
+358,Fornecedor 0358 LTDA,Salvador,BA,14,Ativo
+359,Fornecedor 0359 LTDA,Sao Paulo,SP,16,Ativo
+360,Fornecedor 0360 LTDA,Fortaleza,CE,9,Ativo
+361,Fornecedor 0361 LTDA,Niteroi,RJ,8,Ativo
+362,Fornecedor 0362 LTDA,Salvador,BA,17,Ativo
+363,Fornecedor 0363 LTDA,Londrina,PR,6,Ativo
+364,Fornecedor 0364 LTDA,Goiania,GO,9,Bloqueado
+365,Fornecedor 0365 LTDA,Joinville,SC,20,Ativo
+366,Fornecedor 0366 LTDA,Rio de Janeiro,RJ,4,Ativo
+367,Fornecedor 0367 LTDA,Brasilia,DF,5,Ativo
+368,Fornecedor 0368 LTDA,Porto Alegre,RS,19,Ativo
+369,Fornecedor 0369 LTDA,Sao Paulo,SP,6,Ativo
+370,Fornecedor 0370 LTDA,Santos,SP,21,Ativo
+371,Fornecedor 0371 LTDA,Belo Horizonte,MG,8,Inativo
+372,Fornecedor 0372 LTDA,Caxias do Sul,RS,5,Ativo
+373,Fornecedor 0373 LTDA,Uberlandia,MG,5,Ativo
+374,Fornecedor 0374 LTDA,Caxias do Sul,RS,20,Ativo
+375,Fornecedor 0375 LTDA,Salvador,BA,14,Ativo
+376,Fornecedor 0376 LTDA,Sao Paulo,SP,5,Ativo
+377,Fornecedor 0377 LTDA,Fortaleza,CE,15,Ativo
+378,Fornecedor 0378 LTDA,Fortaleza,CE,18,Ativo
+379,Fornecedor 0379 LTDA,Rio de Janeiro,RJ,2,Ativo
+380,Fornecedor 0380 LTDA,Sao Paulo,SP,18,Ativo
+381,Fornecedor 0381 LTDA,Caxias do Sul,RS,19,Ativo
+382,Fornecedor 0382 LTDA,Rio de Janeiro,RJ,4,Ativo
+383,Fornecedor 0383 LTDA,Curitiba,PR,20,Ativo
+384,Fornecedor 0384 LTDA,Brasilia,DF,10,Ativo
+385,Fornecedor 0385 LTDA,Sao Paulo,SP,2,Ativo
+386,Fornecedor 0386 LTDA,Belo Horizonte,MG,19,Ativo
+387,Fornecedor 0387 LTDA,Caxias do Sul,RS,5,Ativo
+388,Fornecedor 0388 LTDA,Brasilia,DF,5,Bloqueado
+389,Fornecedor 0389 LTDA,Porto Alegre,RS,11,Ativo
+390,Fornecedor 0390 LTDA,Sao Paulo,SP,15,Ativo
+391,Fornecedor 0391 LTDA,Goiania,GO,16,Ativo
+392,Fornecedor 0392 LTDA,Porto Alegre,RS,21,Ativo
+393,Fornecedor 0393 LTDA,Fortaleza,CE,9,Ativo
+394,Fornecedor 0394 LTDA,Uberlandia,MG,10,Ativo
+395,Fornecedor 0395 LTDA,Sao Paulo,SP,8,Ativo
+396,Fornecedor 0396 LTDA,Joinville,SC,16,Ativo
+397,Fornecedor 0397 LTDA,Campo Grande,MS,11,Ativo
+398,Fornecedor 0398 LTDA,Curitiba,PR,18,Ativo
+399,Fornecedor 0399 LTDA,Londrina,PR,11,Ativo
+400,Fornecedor 0400 LTDA,Curitiba,PR,2,Ativo
+401,Fornecedor 0401 LTDA,Porto Alegre,RS,18,Ativo
+402,Fornecedor 0402 LTDA,Londrina,PR,20,Ativo
+403,Fornecedor 0403 LTDA,Florianopolis,SC,20,Ativo
+404,Fornecedor 0404 LTDA,Uberlandia,MG,16,Ativo
+405,Fornecedor 0405 LTDA,Belem,PA,12,Inativo
+406,Fornecedor 0406 LTDA,Fortaleza,CE,17,Ativo
+407,Fornecedor 0407 LTDA,Joinville,SC,18,Ativo
+408,Fornecedor 0408 LTDA,Manaus,AM,14,Ativo
+409,Fornecedor 0409 LTDA,Uberlandia,MG,8,Ativo
+410,Fornecedor 0410 LTDA,Joinville,SC,6,Ativo
+411,Fornecedor 0411 LTDA,Recife,PE,12,Ativo
+412,Fornecedor 0412 LTDA,Porto Alegre,RS,7,Ativo
+413,Fornecedor 0413 LTDA,Florianopolis,SC,21,Ativo
+414,Fornecedor 0414 LTDA,Uberlandia,MG,2,Ativo
+415,Fornecedor 0415 LTDA,Manaus,AM,17,Ativo
+416,Fornecedor 0416 LTDA,Porto Alegre,RS,14,Ativo
+417,Fornecedor 0417 LTDA,Cuiaba,MT,18,Ativo
+418,Fornecedor 0418 LTDA,Belem,PA,8,Ativo
+419,Fornecedor 0419 LTDA,Brasilia,DF,10,Ativo
+420,Fornecedor 0420 LTDA,Florianopolis,SC,17,Ativo
+421,Fornecedor 0421 LTDA,Sao Paulo,SP,13,Inativo
+422,Fornecedor 0422 LTDA,Recife,PE,12,Ativo
+423,Fornecedor 0423 LTDA,Porto Alegre,RS,8,Ativo
+424,Fornecedor 0424 LTDA,Joinville,SC,10,Ativo
+425,Fornecedor 0425 LTDA,Goiania,GO,21,Ativo
+426,Fornecedor 0426 LTDA,Campinas,SP,20,Ativo
+427,Fornecedor 0427 LTDA,Recife,PE,14,Ativo
+428,Fornecedor 0428 LTDA,Florianopolis,SC,21,Ativo
+429,Fornecedor 0429 LTDA,Campo Grande,MS,10,Ativo
+430,Fornecedor 0430 LTDA,Manaus,AM,3,Ativo
+431,Fornecedor 0431 LTDA,Caxias do Sul,RS,2,Ativo
+432,Fornecedor 0432 LTDA,Campo Grande,MS,10,Ativo
+433,Fornecedor 0433 LTDA,Manaus,AM,20,Ativo
+434,Fornecedor 0434 LTDA,Belo Horizonte,MG,11,Ativo
+435,Fornecedor 0435 LTDA,Sao Paulo,SP,4,Ativo
+436,Fornecedor 0436 LTDA,Fortaleza,CE,3,Ativo
+437,Fornecedor 0437 LTDA,Campo Grande,MS,4,Ativo
+438,Fornecedor 0438 LTDA,Joinville,SC,20,Ativo
+439,Fornecedor 0439 LTDA,Florianopolis,SC,19,Ativo
+440,Fornecedor 0440 LTDA,Rio de Janeiro,RJ,11,Ativo
+441,Fornecedor 0441 LTDA,Cuiaba,MT,19,Ativo
+442,Fornecedor 0442 LTDA,Goiania,GO,18,Ativo
+443,Fornecedor 0443 LTDA,Curitiba,PR,5,Ativo
+444,Fornecedor 0444 LTDA,Porto Alegre,RS,14,Ativo
+445,Fornecedor 0445 LTDA,Uberlandia,MG,20,Ativo
+446,Fornecedor 0446 LTDA,Recife,PE,6,Ativo
+447,Fornecedor 0447 LTDA,Campinas,SP,11,Ativo
+448,Fornecedor 0448 LTDA,Londrina,PR,15,Ativo
+449,Fornecedor 0449 LTDA,Joinville,SC,15,Ativo
+450,Fornecedor 0450 LTDA,Uberlandia,MG,9,Ativo
+451,Fornecedor 0451 LTDA,Salvador,BA,15,Ativo
+452,Fornecedor 0452 LTDA,Santos,SP,2,Ativo
+453,Fornecedor 0453 LTDA,Cuiaba,MT,11,Ativo
+454,Fornecedor 0454 LTDA,Uberlandia,MG,3,Ativo
+455,Fornecedor 0455 LTDA,Uberlandia,MG,7,Ativo
+456,Fornecedor 0456 LTDA,Belem,PA,12,Ativo
+457,Fornecedor 0457 LTDA,Florianopolis,SC,12,Ativo
+458,Fornecedor 0458 LTDA,Campo Grande,MS,4,Ativo
+459,Fornecedor 0459 LTDA,Campo Grande,MS,2,Bloqueado
+460,Fornecedor 0460 LTDA,Brasilia,DF,9,Ativo
+461,Fornecedor 0461 LTDA,Manaus,AM,14,Ativo
+462,Fornecedor 0462 LTDA,Uberlandia,MG,5,Ativo
+463,Fornecedor 0463 LTDA,Manaus,AM,6,Ativo
+464,Fornecedor 0464 LTDA,Niteroi,RJ,8,Ativo
+465,Fornecedor 0465 LTDA,Recife,PE,15,Ativo
+466,Fornecedor 0466 LTDA,Caxias do Sul,RS,15,Ativo
+467,Fornecedor 0467 LTDA,Fortaleza,CE,8,Ativo
+468,Fornecedor 0468 LTDA,Recife,PE,18,Ativo
+469,Fornecedor 0469 LTDA,Uberlandia,MG,12,Ativo
+470,Fornecedor 0470 LTDA,Joinville,SC,11,Ativo
+471,Fornecedor 0471 LTDA,Brasilia,DF,4,Ativo
+472,Fornecedor 0472 LTDA,Cuiaba,MT,15,Ativo
+473,Fornecedor 0473 LTDA,Niteroi,RJ,4,Ativo
+474,Fornecedor 0474 LTDA,Brasilia,DF,15,Ativo
+475,Fornecedor 0475 LTDA,Caxias do Sul,RS,14,Ativo
+476,Fornecedor 0476 LTDA,Campo Grande,MS,20,Ativo
+477,Fornecedor 0477 LTDA,Brasilia,DF,3,Ativo
+478,Fornecedor 0478 LTDA,Recife,PE,13,Ativo
+479,Fornecedor 0479 LTDA,Curitiba,PR,5,Ativo
+480,Fornecedor 0480 LTDA,Recife,PE,19,Ativo
+481,Fornecedor 0481 LTDA,Recife,PE,2,Ativo
+482,Fornecedor 0482 LTDA,Sao Paulo,SP,18,Ativo
+483,Fornecedor 0483 LTDA,Porto Alegre,RS,6,Ativo
+484,Fornecedor 0484 LTDA,Caxias do Sul,RS,4,Ativo
+485,Fornecedor 0485 LTDA,Florianopolis,SC,10,Ativo
+486,Fornecedor 0486 LTDA,Recife,PE,16,Ativo
+487,Fornecedor 0487 LTDA,Belo Horizonte,MG,14,Ativo
+488,Fornecedor 0488 LTDA,Caxias do Sul,RS,19,Ativo
+489,Fornecedor 0489 LTDA,Rio de Janeiro,RJ,11,Ativo
+490,Fornecedor 0490 LTDA,Manaus,AM,8,Inativo
+491,Fornecedor 0491 LTDA,Curitiba,PR,5,Ativo
+492,Fornecedor 0492 LTDA,Goiania,GO,13,Ativo
+493,Fornecedor 0493 LTDA,Joinville,SC,18,Ativo
+494,Fornecedor 0494 LTDA,Porto Alegre,RS,19,Ativo
+495,Fornecedor 0495 LTDA,Campinas,SP,21,Ativo
+496,Fornecedor 0496 LTDA,Porto Alegre,RS,8,Ativo
+497,Fornecedor 0497 LTDA,Joinville,SC,3,Ativo
+498,Fornecedor 0498 LTDA,Porto Alegre,RS,13,Ativo
+499,Fornecedor 0499 LTDA,Niteroi,RJ,21,Ativo
+500,Fornecedor 0500 LTDA,Campo Grande,MS,19,Ativo
